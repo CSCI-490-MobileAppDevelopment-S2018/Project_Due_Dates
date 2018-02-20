@@ -6,3 +6,6 @@ Repository for project due dates
 ## [TipCalculator](https://github.com/CSCI-490-MobileAppDevelopment-S2018/TipCalculator-project) 8 Feb 2018 ##
 ## [GitReference](https://github.com/CSCI-490-MobileAppDevelopment-S2018/GitReference-project) 1 Mar 2018 ##
 ## [StockQuotes](https://github.com/CSCI-490-MobileAppDevelopment-S2018/StockQuotes-project) 15 Mar 2018 ##
+## [Calculator](https://github.com/CSCI-490-MobileAppDevelopment-S2018/Calculator-project) 3 Apr 2018 ##
+## [CryptoCurrencyTracker](https://github.com/CSCI-490-MobileAppDevelopment-S2018/CrytoCurrencyTracker-project) 19 Apr 2018 (Github only) ##
+## [SemesterProject](https://github.com/CSCI-490-MobileAppDevelopment-S2018/SemesterProject-project) 28 Apr 2018 ##
